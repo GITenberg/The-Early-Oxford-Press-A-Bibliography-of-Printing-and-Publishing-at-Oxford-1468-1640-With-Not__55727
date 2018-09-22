@@ -1,11 +1,16 @@
 _repo: The-Early-Oxford-Press-A-Bibliography-of-Printing-and-Publishing-at-Oxford-1468-1640-With-Not__55727
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55727-h/images/cover.jpg
 creator:
   author:
     agent_name: Madan, Falconer
     gutenberg_agent_id: '48478'
     url: http://www.gutenberg.org/2009/agents/48478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55727#The-Early-Oxford-Press-A-Bibliography-of-Printing-and-Publishing-at-Oxford-1468-1640-With-Not_
 gutenberg_issued: '2017-10-10'
 gutenberg_type: Text
 identifiers:
